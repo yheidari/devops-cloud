@@ -1,11 +1,10 @@
 # Yashar Heidari — DevOps / Cloud / Systems Engineer Portfolio
 
-CI/CD, pipeline uptime, and observability for analytics platforms.
+Professional landing page and experience summary.
 
 ## Live
 
-- Live site: https://yheidari.github.io/devops-cloud/
-- Repository: https://github.com/yheidari/devops-cloud
+- Site: https://yheidari.github.io/devops-cloud/
 
 ## Profile
 
@@ -13,7 +12,6 @@ DevOps / Cloud Engineer with 5 years of experience automating CI/CD, orchestrati
 
 ## Contact
 
-- Location: Messina, Italy · Open to Remote
+- Location: Messina, Italy | Open to remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
-- GitHub: https://github.com/yheidari/devops-cloud
